@@ -1,0 +1,20 @@
+name: Current year calendar
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * 0' # запускать еженедельно по воскресеньям
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_calendar: yes
