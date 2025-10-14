@@ -72,7 +72,7 @@ CSS                      2 repos             ██████░░░░░�
  Last Updated on 14/10/2025 18:50:44 UTC
 <!--END_SECTION:waka-->
 ------
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnice225&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnice225&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnice225&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------
