@@ -73,6 +73,6 @@ CSS                      2 repos             ██████░░░░░�
 <!--END_SECTION:waka-->
 ------
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnice225&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnice225&theme=dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnice225&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------
