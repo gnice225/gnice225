@@ -1,5 +1,4 @@
-<p align="center">Hi 👋 My name is Nikita</p>
-------
+<p align="center"> ## Hi 👋 My name is Nikita</p>
 
 <p align="center"> I've been learn JavaScript and little know Python. Study on college of Financial University. </p>
 
