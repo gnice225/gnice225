@@ -75,8 +75,3 @@ CSS                      2 repos             ██████░░░░░�
  Last Updated on 14/10/2025 18:50:44 UTC
 <!--END_SECTION:waka-->
 ------
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gnice225&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----------
-<p align="center"><img src="metrics.plugin.calendar.svg" alt="Metrics" width="800"></p>
-
