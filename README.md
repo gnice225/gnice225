@@ -75,3 +75,11 @@ CSS                      2 repos             ██████░░░░░�
  Last Updated on 22/10/2025 18:24:17 UTC
 <!--END_SECTION:waka-->
 ------
+ <div align="center">
+  
+![details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gnice225&theme=github_dark)
+
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gnice225&theme=github_dark)
+![time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gnice225&theme=github_dark)
+
+</div>
