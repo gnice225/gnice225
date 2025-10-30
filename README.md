@@ -12,7 +12,7 @@
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2010%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -44,7 +44,7 @@ sorceryFight             2 hrs 37 mins       ███████████�
 ```
 
 
- Last Updated on 30/10/2025 16:20:41 UTC
+ Last Updated on 30/10/2025 18:22:33 UTC
 <!--END_SECTION:waka-->
 ------
  <div align="center">
