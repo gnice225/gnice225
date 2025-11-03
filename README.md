@@ -12,6 +12,8 @@
 ------
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2058%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -42,7 +44,7 @@ ModSources               3 hrs 29 mins       ████████░░░�
 ```
 
 
- Last Updated on 03/11/2025 18:22:10 UTC
+ Last Updated on 03/11/2025 20:18:07 UTC
 <!--END_SECTION:waka-->
 ------
  <div align="center">
