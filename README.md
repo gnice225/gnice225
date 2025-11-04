@@ -12,7 +12,7 @@
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -39,12 +39,12 @@ Sunday                   8 commits           █░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-sorceryFight             7 hrs 25 mins       █████████████████░░░░░░░░   67.98 % 
-ModSources               3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.02 % 
+sorceryFight             6 hrs 6 mins        ██████████████████░░░░░░░   72.12 % 
+ModSources               2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
 ```
 
 
- Last Updated on 04/11/2025 18:23:00 UTC
+ Last Updated on 04/11/2025 20:18:54 UTC
 <!--END_SECTION:waka-->
 ------
  <div align="center">
