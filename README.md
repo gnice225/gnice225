@@ -12,7 +12,7 @@
 ------
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2013%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -43,7 +43,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2026 16:22:38 UTC
+ Last Updated on 05/01/2026 18:27:24 UTC
 <!--END_SECTION:waka-->
 ------
  <div align="center">
